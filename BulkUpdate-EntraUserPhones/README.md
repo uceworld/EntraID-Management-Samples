@@ -102,7 +102,7 @@ When executed, the script will:
 - Failed updates: Check the error log file for detailed error messages per user
 
 ## Contributions
-Contributions are welcome! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
+Contributions are welcome! Please see the [Contributing Guidelines](https://github.com/uceworld/EntraID-Management-Samples/blob/main/CONTRIBUTING.md) for more information.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/uceworld/EntraID-Management-Samples/blob/main/LICENSE) file for details.
